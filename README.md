@@ -1,5 +1,5 @@
 # Latihan Teori Graf dengan NetworkX
-
+Deadline : Senin, 17 Maret 23.59 WIB
 ## Deskripsi Soal
 
 Dalam latihan ini, Anda diminta untuk mengimplementasikan beberapa fungsi terkait teori graf menggunakan pustaka `networkx`. Soal ini mencakup beberapa aspek penting, seperti:

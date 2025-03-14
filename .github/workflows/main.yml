@@ -32,4 +32,4 @@ jobs:
         python -m pip install numpy
     - name: Test with Python unit Test
       run: |
-        pytest test.py -v
+        pytest tests/test.py -v
